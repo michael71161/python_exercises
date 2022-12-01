@@ -15,6 +15,6 @@ Very good and usefull Python fundamentals practice
    more info at Treausre_island.py
 4. random module overview - heads and tails as example 
 5. Rock papper scissors game   
-
+6. hangman game : complete game with cli GUI - hangman folder -main file- Hangman_game.py
 
 
