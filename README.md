@@ -16,5 +16,6 @@ Very good and usefull Python fundamentals practice
 4. random module overview - heads and tails as example 
 5. Rock papper scissors game   
 6. hangman game : complete game with cli GUI - hangman folder -main file- Hangman_game.py
+7. Caesar Cipher: string encoding and decoding using the Caesar Cipher method to shift letter as a key 
 
 
