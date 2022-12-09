@@ -17,5 +17,8 @@ Very good and usefull Python fundamentals practice
 5. Rock papper scissors game   
 6. hangman game : complete game with cli GUI - hangman folder -main file- Hangman_game.py
 7. Caesar Cipher: string encoding and decoding using the Caesar Cipher method to shift letter as a key 
+8. Silent Auction: each saying name and bet amount, the highes wins 
+9. Calculator: with - add, subtract, multiply, divide 
+
 
 
